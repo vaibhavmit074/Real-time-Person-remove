@@ -14,9 +14,9 @@ This is an experiment. It may not be perfect in all situations.
 
 Go ahead and try it right now in your own web browser. Pick your preference and give me a fork / like :-)
 
-Codepen.io: https://codepen.io/jasonmayes/pen/GRJqgma
+Codepen.io: https://removebg.000webhostapp.com/
 
-Glitch.com: https://glitch.com/~disappearing-people
+Glitch.com: https://removebg.000webhostapp.com/
 
 
 ## Usage
